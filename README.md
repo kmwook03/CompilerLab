@@ -12,4 +12,4 @@ Studied under Professor Gyun Woo
 * [Lab 5: Flex Lab](./labs/lab5/)
 * [Lab 6: Parser Lab](./labs/lab6/)
 * [Lab 7: Yacc Lab](./labs/lab7/)
-
+* [Lab 8: Attribute Grammar](./labs/lab8/)
